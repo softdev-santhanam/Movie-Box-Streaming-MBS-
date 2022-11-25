@@ -11,35 +11,31 @@ Redux toolkit for creating and managing redux stores.
 You can Add & Remove favorite movies from My List.
 Video player function is enabled.
 
-![Screenshot from 2022-10-11 12-01-59](https://user-images.githubusercontent.com/110757279/195013444-0e447a26-a768-4612-b250-f2a35edc379b.png)
+![SignUp](https://user-images.githubusercontent.com/110757279/203942616-500e4653-b2a8-4fc8-adb3-2d8044757c44.PNG)
 
-![Screenshot from 2022-10-11 12-02-13](https://user-images.githubusercontent.com/110757279/195013460-f5f8f47f-7712-44ec-bdc1-c2b3ef3937f6.png)
+![SignIn](https://user-images.githubusercontent.com/110757279/203942631-2cabf87f-230f-41ea-bafc-041bb0c920cb.png)
 
-![Screenshot from 2022-10-11 12-02-30](https://user-images.githubusercontent.com/110757279/195013476-dd2b6401-9378-486f-91ee-32d9b497a4c6.png)
+![Home Page](https://user-images.githubusercontent.com/110757279/203942708-359e0899-c981-4682-90b7-5019f322c72e.png)
 
-![Screenshot from 2022-10-23 19-18-20](https://user-images.githubusercontent.com/110757279/197396007-1e983ce7-fa77-49b3-ba10-e9aeeec8672d.png)
+![Player Page](https://user-images.githubusercontent.com/110757279/203942817-e8fd070d-d95e-4485-99fc-cf73008834e9.png)
 
-![Screenshot from 2022-10-11 11-58-18](https://user-images.githubusercontent.com/110757279/195013554-44a5fad4-f18b-4d46-bb1a-5ca44a26d7eb.png)
+![Action Dropdown](https://user-images.githubusercontent.com/110757279/203942854-ddcd84bf-ca91-4760-bde5-e40f2f0097f3.png)
 
-![Screenshot from 2022-10-11 11-58-41](https://user-images.githubusercontent.com/110757279/195013563-1c816e80-d390-4caf-9346-82eeb43d38a6.png)
+![My List](https://user-images.githubusercontent.com/110757279/203942916-159b629e-2611-4b72-a35b-db875d11e777.png)
 
-![Screenshot from 2022-10-11 11-59-04](https://user-images.githubusercontent.com/110757279/195013577-bff59835-1062-4f1c-aa0d-7b9204ae85f7.png)
+![Profile](https://user-images.githubusercontent.com/110757279/203942938-81d30dd2-f9a3-4305-89df-ef37a8cf31a1.png)
 
-![Screenshot from 2022-10-11 11-59-44](https://user-images.githubusercontent.com/110757279/195013643-afbec974-6f78-4b42-ab9e-d1833651bd43.png)
+![Payment Page](https://user-images.githubusercontent.com/110757279/203942999-f03c1ed1-6f09-4d65-88b4-f2a16efc9a38.png)
 
-![Screenshot from 2022-10-11 12-00-57](https://user-images.githubusercontent.com/110757279/195013650-b6f667fe-732d-4b62-b5a6-be5fb7c18ac2.png)
+![Firebase Console](https://user-images.githubusercontent.com/110757279/203943082-6f6f7f18-8634-4ded-beb3-189c7159c79e.png)
 
-![Screenshot from 2022-10-11 12-01-20](https://user-images.githubusercontent.com/110757279/195013657-bcc4df72-a5de-4406-a7ac-8357595c0234.png)
+![Razorpay](https://user-images.githubusercontent.com/110757279/203943108-b4de43ca-2efa-4dff-a386-82fe2f93407b.png)
 
-![Screenshot from 2022-10-11 12-15-04](https://user-images.githubusercontent.com/110757279/195015740-69b6b60a-dc79-4018-bb80-e73a1fcc3ed4.png)
+![Rs 1](https://user-images.githubusercontent.com/110757279/203943133-38dce984-c61b-4b4f-a909-33241bcefd90.png)
 
-![Screenshot from 2022-10-11 12-15-26](https://user-images.githubusercontent.com/110757279/195015746-c9e8c23b-1d2b-41bf-8951-499dc93cf72c.png)
+![MongoDB](https://user-images.githubusercontent.com/110757279/203943155-b18b30e8-0dd2-4c73-a1bb-9ba84a36fa14.png)
 
-![Screenshot from 2022-10-11 12-16-27](https://user-images.githubusercontent.com/110757279/195015759-dc2b020e-f491-4b3a-bb04-5398cbb1a47a.png)
-
-![Screenshot from 2022-10-18 19-51-34](https://user-images.githubusercontent.com/110757279/196457554-2ea9e3f4-80aa-499f-9fa7-858bec2c365c.png)
-
-![Screenshot from 2022-10-18 19-51-16](https://user-images.githubusercontent.com/110757279/196457570-135799c1-bd62-4c7d-8579-d4be53b4ece8.png)
+![Git Mobail Responsive](https://user-images.githubusercontent.com/110757279/203943184-1c769214-4857-4e25-900f-be41650ac3bd.png)
 
 Project video - The project details as a presentation.
 [https://loom.com/share/3a4e7b3b04794fbb99c38786435d6c23]
