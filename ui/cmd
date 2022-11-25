@@ -5,3 +5,12 @@ https://stackoverflow.com/questions/53930305/nodemon-error-system-limit-for-numb
 cd server
 yarn add express  cors shortid razorpay
 4 modules we need 
+
+
+
+GIT cmd
+git init
+git remote rm origin
+git remote add origin https://github.com/you-codex/Movie-Box-Streaming-MBS-.git
+git branch -M main
+git push -u origin main
